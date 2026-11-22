@@ -9,8 +9,8 @@ The analysis focuses on transforming raw sales records into meaningful business 
 Tools & Technologies
 
 - Database: PostgreSQL
-- SQL Environment:** pgAdmin 4
-- Language:** SQL
+- SQL Environment: pgAdmin 4
+- Language: SQL
 - Dataset Format: CSV
 
 Dataset Overview
@@ -66,15 +66,15 @@ SQL Concepts & Techniques
 
 Key Findings
 
-- **Total Sales:** 21,779,052.59 across 17,049 orders.
-- **Unique Customers:** 5,000.
-- **Top Revenue Category:** Electronics generated 10,481,897.65, approximately 48.1% of total revenue.
-- **Top Performing City:** Istanbul generated 5,646,595.78 in revenue.
-- **Payment Preference:** Credit cards accounted for approximately 39.89% of all orders.
-- **Device Usage:** Mobile devices accounted for approximately 56% of orders.
-- **Customer Behavior:** Orders flagged as returning-customer transactions generated approximately 88.1% of total revenue.
-- **Customer Segmentation:** The high-value segment contained 116 customers, based on historical spending thresholds.
-- **Monthly Performance:** December 2023 recorded the highest monthly revenue at 1,586,213.77.
+- Total Sales:** 21,779,052.59 across 17,049 orders.
+- Unique Customers: 5,000.
+- Top Revenue Category: Electronics generated 10,481,897.65, approximately 48.1% of total revenue.
+- Top Performing City: Istanbul generated 5,646,595.78 in revenue.
+- Payment Preference: Credit cards accounted for approximately 39.89% of all orders.
+- Device Usage: Mobile devices accounted for approximately 56% of orders.
+- Customer Behavior: Orders flagged as returning-customer transactions generated approximately 88.1% of total revenue.
+- Customer Segmentation: The high-value segment contained 116 customers, based on historical spending thresholds.
+- Monthly Performance: December 2023 recorded the highest monthly revenue at 1,586,213.77.
 
 Project Structure
 
